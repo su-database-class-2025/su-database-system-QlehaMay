@@ -1,0 +1,1 @@
+SELECT * FROM actor where first_name IN('Angela', 'Angelina', 'Audrey');
